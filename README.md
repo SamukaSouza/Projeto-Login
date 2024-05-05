@@ -8,8 +8,7 @@
 
 ## 🔎 Outras informações
 
-O projeto foi criado incluindo responsividade utilizando código CSS, possibilitando ao usuário a utilização da aplicação partindo de qualquer dispositivo! 📱
-O Objetivo foi criar um site imitando uma tela de celular, e ao clicar nos icones de redes sociais ao lado, elas abrem no iframe que está na tela do celular.
+O projeto foi criado incluindo responsividade utilizando código CSS, MediaQuery, possibilitando ao usuário a utilização da aplicação partindo de qualquer dispositivo! 📱
 
 ## 📲 Contato
 
